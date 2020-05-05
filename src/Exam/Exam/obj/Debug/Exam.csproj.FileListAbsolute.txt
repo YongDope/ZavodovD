@@ -1,0 +1,10 @@
+c:\users\dope\documents\visual studio 2015\Projects\Exam\Exam\bin\Debug\Exam.exe.config
+c:\users\dope\documents\visual studio 2015\Projects\Exam\Exam\bin\Debug\Exam.exe
+c:\users\dope\documents\visual studio 2015\Projects\Exam\Exam\bin\Debug\Exam.pdb
+c:\users\dope\documents\visual studio 2015\Projects\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+c:\users\dope\documents\visual studio 2015\Projects\Exam\Exam\obj\Debug\Exam.Form1.resources
+c:\users\dope\documents\visual studio 2015\Projects\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+c:\users\dope\documents\visual studio 2015\Projects\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.Cache
+c:\users\dope\documents\visual studio 2015\Projects\Exam\Exam\obj\Debug\Exam.exe
+c:\users\dope\documents\visual studio 2015\Projects\Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\Dope\Documents\Visual Studio 2015\Projects\Exam\Exam\obj\Debug\Exam.Oprogramme.resources
