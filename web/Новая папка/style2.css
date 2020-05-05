@@ -1,0 +1,11 @@
+body {
+background: url(fon2.gif) repeat;
+}
+
+h1 {
+font-size: 24px;
+font-family: Arial;
+font-weight: bold;
+text-align: center;
+font-style: italic;
+}

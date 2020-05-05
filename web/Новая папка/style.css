@@ -1,0 +1,11 @@
+body {
+background: url(fon1.gif) center center fixed;
+background-size: cover;
+}
+
+h1 {
+font-size: 24px;
+font-family: Monotype Corsiva;
+font-weight: bold;
+text-align: center;
+}
